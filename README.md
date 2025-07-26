@@ -18,6 +18,8 @@ This project builds a heart disease prediction model using a neural network (MLP
 
 ## 🧠 Dataset Columns
 
+This dataSet is taken from kaggle DataQuest
+
 | Column         | Description |
 |----------------|-------------|
 | **Age**            | Age of the patient [years] |
